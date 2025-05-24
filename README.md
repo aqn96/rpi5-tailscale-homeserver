@@ -5,7 +5,7 @@ Assemble and Config a home server for personal usage.
 
 ## 1. Introduction & My Goals
 
-This project documents the step-by-step process of setting up a low-power, 24/7 headless Linux server using a Raspberry Pi 5. The primary goal is to create a versatile home lab environment located in San Diego, California, for:
+This project documents the step-by-step process of setting up a low-power, 24/7 headless Linux server using a Raspberry Pi 5. The primary goal is to create a versatile home lab environment located in for:
 
 * Coding projects and development.
 * Networking practice and experiments.
